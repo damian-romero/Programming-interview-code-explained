@@ -12,7 +12,7 @@ In this case, the test uses lambda functions to evaluate the input integers.
     # A simple form can be: (lambda x: do something with x) (put x here)
 
 For an example with regular functions, see fizzBuzz_normal.py
-You may find useful documentations at the bottom.
+You may find useful documentation at the bottom.
 
 © Damian Romero, 2019
 Python 3.7
